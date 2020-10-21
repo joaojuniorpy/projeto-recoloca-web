@@ -1,0 +1,23 @@
+{
+    "name": "new-vagas2",
+    "version": "1.0.0",
+    "description": "deployjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joaojuniorpy/vagas-web.git"
+    },
+    "keywords": [
+        "newvagasweb"
+    ],
+    "author": "joaojuniorpy",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/joaojuniorpy/vagas-web/issues"
+    },
+
+    "homepage": "https://github.com/joaojuniorpy/vagas-web#readme"
+}
